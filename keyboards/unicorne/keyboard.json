@@ -16,7 +16,8 @@
         "layer_lock": true,
         "caps_word": true,
         "command": false,
-        "pointing_device": true
+        "pointing_device": true,
+        "key_override": true
     },
     "indicators": {
         "caps": "GP24"
