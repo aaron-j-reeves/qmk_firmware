@@ -5,6 +5,10 @@ const char *get_layer_name(uint8_t layer) {
     switch (layer) {
         case _QWTY:
             return "QWERTY";
+        case _GALM:
+            return "Gallium";
+        case _MOUS:
+            return "Mouse";
         case _NUMB:
             return "Numbers";
         case _SYMB:
